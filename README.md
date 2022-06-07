@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @muhammedya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there, I'm Muhammed Yaseen - [][website] 👋 
+
+[![Linkedin](https://img.shields.io/badge/muhammedya-brightgreen)](https://www.linkedin.com/in/muhammedya/))
+
+## I'm a Full Stack Developer, Startup Enthusiast and Investor!!
+
+- ⚓ I’m currently working in React, Django RESTful API and Posgresql
+- ⚓ I’m looking for startups that helps me in career growth as well as financial growth
+- ⚓ 2022 Goal: To be a part of big billion startup!
+- ⚓ Fun fact: I love to travel
 
 <!---
 muhammedya/muhammedya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +24,15 @@ You can click the Preview link to take a look at your changes.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[website]: http://muhammedyaseen.pythonanywhere.com/
+[instagram]: https://www.instagram.com/muhammedyaseen77/
+[linkedin]: https://www.linkedin.com/in/muhammedya/
 
