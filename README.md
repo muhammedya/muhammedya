@@ -36,15 +36,15 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br/>
 
-### ⚡ Recent GitHub Activity
+## ⚡ Recent GitHub Activity
 <p>
- <a href="https://github.com/muhammedya/github-readme-activity-graph"><img alt="Yaseen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muhammedya&custom_title=cvsuhail's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+ <a href="https://github.com/muhammedya/github-readme-activity-graph"><img alt="Yaseen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muhammedya&custom_title=muhammedya's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  <br/>
 </p>
 <br/>
 <br/>
 
-## 🙋‍♀️ Let's Connect
+### 🙋‍♀️ Let's Connect
 <p align="left">
 	<a href="http://muhammedyaseen.pythonanywhere.com/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
 	<a href="https://github.com/muhammedya/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
