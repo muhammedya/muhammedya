@@ -29,21 +29,21 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🔥 Streak Stats
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suhail's streak" src="https://github-readme-streak-stats.herokuapp.com?user=cv-suhail&theme=merko&hide_border=true&date_format=%5BY.%5Dn.j"/>
+<p align="left">
+  <a href="https://github.com/muhammedya">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suhail's streak" src="https://github-readme-streak-stats.herokuapp.com?user=muhammedya&theme=merko&hide_border=true&date_format=%5BY.%5Dn.j"/>
   </a>
   <p align="center"> If you can dream it, you can do it🔥 </p>
 </p>
 
 
-### Connect with me:
 
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## 🙋‍♀️ Let's Connect
+<p align="left">
+	<a href="http://muhammedyaseen.pythonanywhere.com/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://github.com/muhammedya/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/muhammedya/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="mailto:muhammedyaseen77@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+</p>
 
-[website]: http://muhammedyaseen.pythonanywhere.com/
-[instagram]: https://www.instagram.com/muhammedyaseen77/
-[linkedin]: https://www.linkedin.com/in/muhammedya/
 
