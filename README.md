@@ -27,16 +27,22 @@ You can click the Preview link to take a look at your changes.
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://www.linkedin.com/in/muhammedya/)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.linkedin.com/in/muhammedya/)
 
-
-## 🔥 Streak Stats
-<p align="left">
-  <a href="https://github.com/muhammedya">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suhail's streak" src="https://github-readme-streak-stats.herokuapp.com?user=muhammedya&theme=merko&hide_border=true&date_format=%5BY.%5Dn.j"/>
-  </a>
-  <p align="center"> If you can dream it, you can do it🔥 </p>
+## 💻 GitHub Profile Stats
+ <p> 
+    <a href="https://github.com/muhammedya/github-readme-stats"><img alt="Yaseen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=muhammedya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/muhammedya/github-readme-stats"><img alt="Yaseen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
+<br/>
 
-
+### ⚡ Recent GitHub Activity
+<p>
+ <a href="https://github.com/muhammedya/github-readme-activity-graph"><img alt="Yaseen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=muhammedya&custom_title=cvsuhail's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+ <br/>
+</p>
+<br/>
+<br/>
 
 ## 🙋‍♀️ Let's Connect
 <p align="left">
