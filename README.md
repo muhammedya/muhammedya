@@ -50,6 +50,7 @@ You can click the Preview link to take a look at your changes.
 	<a href="https://github.com/muhammedya/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/muhammedya/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="mailto:muhammedyaseen77@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="tel:9895346046" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/teacher-phone-call.png" alt="CallMe"/></a>
+	<a href="[tel:9895346046](https://wa.me/9895346046?text=Send20%a20%your20%a20%CV)" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/teacher-phone-call.png" alt="CallMe"/></a>
 </p>
 
+https://wa.me/9895346046?text=Send20%a20%your20%a20%CV
