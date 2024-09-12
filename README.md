@@ -1,6 +1,7 @@
 ### Hi there, I'm Muhammed Yaseen - [][website] 👋 
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-brightgreen)](https://www.linkedin.com/in/muhammedya/)
+[![](https://visitcount.itsvg.in/api?id=muhammedya&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 ## I'm a Full Stack Developer, Startup Enthusiast and Investor!!
 
