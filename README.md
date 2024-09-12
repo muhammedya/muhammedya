@@ -29,9 +29,7 @@ You can click the Preview link to take a look at your changes.
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.linkedin.com/in/muhammedya/)
 
 ## 💻 GitHub Profile Stats
- <p> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedya&show_icons=true&theme=radical)
-
+ <p>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedya&theme=dark&show_icons=true)
   <a href="https://github.com/muhammedya/github-readme-stats"><img alt="Yaseen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
