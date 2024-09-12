@@ -1,7 +1,7 @@
 ### Hi there, I'm Muhammed Yaseen - [][website] 👋 
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-brightgreen)](https://www.linkedin.com/in/muhammedya/)
-[![](https://visitcount.itsvg.in/api?id=muhammedya&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=muhammedya&label=Profile%20Views&color=0&icon=6&pretty=false)](https://www.linkedin.com/in/muhammedya/))
 
 ## I'm a Full Stack Developer, Startup Enthusiast and Investor!!
 
@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 💻 GitHub Profile Stats
  <p>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedya&theme=dark&show_icons=true)
+  [![Yaseen's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammedya&theme=dark&show_icons=true)](https://www.linkedin.com/in/muhammedya/)
   <a href="https://github.com/muhammedya/github-readme-stats"><img alt="Yaseen's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedya&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
